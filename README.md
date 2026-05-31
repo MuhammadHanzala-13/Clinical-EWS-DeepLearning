@@ -129,12 +129,12 @@ This can also be combined into an **ensemble**.
 
 ## Repository structure
 
-- `DL_Clinical_EWS_FINAL.ipynb` — main training and evaluation notebook
+- `ClinicalEWS-DeepLearning.ipynb` — main training and evaluation notebook
 - `README.md` — this file
 
 ---
 
 ## License
 
-(Add a license file if you want—choose one like MIT/Apache-2.0.)
+- Made By **Muhammad Hanzala** for DeepLearning Assignment by *Sir Hamza*
 
