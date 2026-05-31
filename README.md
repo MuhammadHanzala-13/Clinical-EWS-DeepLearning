@@ -42,10 +42,10 @@ Also includes:
 ## How to run
 
 The main file is:
-- **`DL_Clinical_EWS_FINAL.ipynb`**
+- **`ClinicalEWS-DeepLearning.ipynb`**
 
 ### 1) Open the notebook
-Open `DL_Clinical_EWS_FINAL.ipynb` in VSCode/Jupyter.
+Open `ClinicalEWS-DeepLearning.ipynb` in VSCode/Jupyter.
 
 ### 2) Install dependencies (inside the notebook)
 The notebook installs required packages using `pip install ...`.
